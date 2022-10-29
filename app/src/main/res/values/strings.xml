@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorldAgain</string>
+    <string name="hello_again">Hello Again</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="detail">Details</string>
+    <string name="replace">Replace</string>
+</resources>
